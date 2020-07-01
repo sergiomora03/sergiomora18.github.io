@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Sergio Mora
+subtitle: MSc (c) Analytics. Lead Data Scientist
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  Interest in Machine Learning Systems, NLP and Transfer Learning.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://github.com/sergiomora03/sergiomora03.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -25,11 +25,11 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: Sergio A. Mora Pardo
+author_bio: Hi, I´m an enthusiast machine learning engineering and artificial intelligence.
+author_email: "sergiomora823@gmail.com"
+author_location: Bogotá, DC. Colombia
+author_website_url: "http://sergiomora03.github.io"
 typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
 author_work_experiences:
